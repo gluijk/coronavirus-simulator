@@ -1,2 +1,2 @@
-# coronavirus-simulator
+# coronavirus-simulators
 Coronavirus simulators
