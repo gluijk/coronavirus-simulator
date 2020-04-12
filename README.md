@@ -1,2 +1,2 @@
 # coronavirus-simulator
-Coronavirus simulators
+Coronavirus simulations using a SIR (Susceptible, Infectious, Recovered/Dead) model
